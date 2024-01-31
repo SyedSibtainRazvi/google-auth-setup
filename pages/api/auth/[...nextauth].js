@@ -10,7 +10,12 @@ export default NextAuth({
     GoogleProvider({
       clientId: process.env.GOOGLE_CLIENT_ID,
       clientSecret: process.env.GOOGLE_CLIENT_SECRET,
+      allowDangerousEmailAccountLinking: true,
     }),
   ],
+  session: {
+    strategy: "jwt",
+    maxAge: 30 * 60,
+  },
   adapter: PrismaAdapter(prisma),
 });
