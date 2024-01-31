@@ -1,0 +1,46 @@
+Ebooks are uploaded to [this Google drive folder](https://drive.google.com/drive/folders/0B_LASq3GnpraTDFMMXhCVF9QNVE).
+
+ - 99 Bottles of OOP [PDF](https://drive.google.com/open?id=0B8KaaOMJaNm-d1ZxMTZ4NHBkSzg) [EPUB](https://drive.google.com/open?id=0B8KaaOMJaNm-UnVvT25fZkNfX3c)
+ - Agile Web Development with Rails 5 [PDF](https://drive.google.com/open?id=0B8wbeNN5VtjhTkhSN2Fud3YxMnM)
+ - CODE - The Hidden Language of Computer Software and Hardware [PDF](https://drive.google.com/open?id=0B_LASq3GnpraTXd0MTJxdldKTWM)
+ - Computer Networks [PDF](https://drive.google.com/open?id=0B_LASq3GnpraTGs0aWk4Z1Z2dEk)
+ - Crafting Rails Applications [EPUB](https://drive.google.com/open?id=0Byvt5YiY1UKBbVlOdnF1NDdsU28) 
+ - Design Tutorials [Folder](https://drive.google.com/open?id=0B8wbeNN5VtjhZlJHN2RyeC1tZ00)
+ - Designing Hypermedia APIs [PDF](https://drive.google.com/open?id=0B_LASq3GnpraZXgwZHJYMlBwcTg)
+ - Edward Tufte Books [Folder](https://drive.google.com/open?id=0B8wbeNN5VtjhUE1zOHlMTURtM0k)
+ - Elm in Action [Folder](https://drive.google.com/open?id=0B9-lYagYeKIXS0J1MHg4U2U4Mlk)
+ - Hackers and Painters - Big Ideas from the Computer Age [PDF](https://drive.google.com/open?id=0B_LASq3GnpraM01FVHhoR1hhRTg)
+ - Hacking the XBox [PDF](https://drive.google.com/open?id=0Byvt5YiY1UKBM1VRRHN4TllfLTQ)
+ - Haskell Programming [PDF](https://drive.google.com/open?id=0B4adyGLyIaBzc2c2alFCTDA0Z0E)
+ - Helm User Manual [PDF](https://drive.google.com/open?id=0B_LASq3GnpraQVU4eW1YOURmTjQ)
+ - Javascript : The Good parts [PDF](https://drive.google.com/open?id=0Byvt5YiY1UKBbFRNZTFVRndUdGM)
+ - Mastering CMake [PDF](https://drive.google.com/open?id=0B_LASq3GnpraaEdvc1pyc0xtQm8)
+ - Mastering Emacs [PDF](https://drive.google.com/open?id=0B8KaaOMJaNm-cUlPVTlfLWFRYVU)
+ - NodeJS the Right Way [Folder](https://drive.google.com/open?id=0B9ZlJIigGXMLekMxTjRwV2U4VEU)
+ - Patterns for Sign Up & Ramp Up [PDF](https://drive.google.com/open?id=0B_LASq3GnpracTFQMXA3bTJGZk0)
+ - PHP Lavarel material [Folder](https://drive.google.com/open?id=0B8wbeNN5VtjhWXhJV0FGMmZ0NVE)
+ - Programming Elixir 1.6 [PDF](https://drive.google.com/open?id=1OP6fAOzCpCJSYcBYp36zSHwMyz7jdD5Z)
+ - Programming Phoenix 1.4 [PDF](https://drive.google.com/open?id=1Ln3Ro328jIh6g9ANYc3o8xR7Tg5Yfzwr)
+ - Rails Antipatterns [PDF](https://drive.google.com/open?id=0Byvt5YiY1UKBdnVBMXZUZDNrZlU)
+ - Ruby Performance Optimisation [PDF](https://drive.google.com/open?id=0B8KaaOMJaNm-Z3pBcHVfUEZnR0U)
+ - Ruby Science [PDF](https://drive.google.com/open?id=0B8wbeNN5Vtjhd1hRY0pjbG1Od0U)
+ - Ruby Under a Microscope [PDF](https://drive.google.com/open?id=0Byvt5YiY1UKBZDBNOEVlTi1uVHM) 
+ - Ruby on Rails Tutorial by Michael Hartl (Rails 6) [PDF](https://drive.google.com/open?id=12YIaa-ciEwiOuYkPXFBR_qJLJl1f2AHL)
+ - Spring in action [PDF](https://drive.google.com/open?id=0B_LASq3GnpraMWlGcHkxYm0xajQ)
+ - SQL Books [Folder](https://drive.google.com/open?id=0B_LASq3GnpraUnB2NTZIWWQ1T1k)
+ - The Agile Samurai [Folder](https://drive.google.com/open?id=0B9ZlJIigGXMLbDBiVEVBSTlGSzA)
+ - The Cucumber Book [PDF](https://drive.google.com/open?id=0B_LASq3GnpraSUFqZlJvdVp6cGc)
+ - The Go Programming Language [PDF](https://drive.google.com/open?id=0Byvt5YiY1UKBQmNxZ0NuWnpSeTQ)
+ - The Icon Handbook [Folder](https://drive.google.com/open?id=0B_LASq3GnprackVhdzd1Wml3TGc)
+ - The Little Schemer [PDF](https://drive.google.com/open?id=0B_LASq3Gnprab1dKV0Q3ZWthN0k) - Third Party Javascript
+ - The Scrum Papers [PDF](https://drive.google.com/open?id=0B_LASq3GnpraMlZxbDE5dFhyZE0)
+ - The Scrum Primer [PDF](https://drive.google.com/open?id=0B_LASq3GnpraeU1fbkpNOVJyTjg)[EPUB](https://drive.google.com/open?id=0B9ZlJIigGXMLZ1owMUZQbE5kTDA)
+ - Upgrading to Rails 4 [PDF](https://drive.google.com/open?id=0B9ZlJIigGXMLejU0ekdnU2NpSE0)
+ - UX Design for Startups [MOBI](https://drive.google.com/open?id=0B_LASq3GnpraV3BTZ2psNE42Tkk)
+ - Web Form Design [PDF](https://drive.google.com/open?id=0B8wbeNN5VtjheWlTYzJIUzdkR28) 
+
+Apart from this, we have the following hard copies:
+
+TODO: Add hard copy book titles here.
+
+If you'd like to purchase a book, please add it to [this Trello board](https://trello.com/b/W6Sh7AZy/books-tutorials)

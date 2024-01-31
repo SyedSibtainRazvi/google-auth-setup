@@ -1,0 +1,6 @@
+- http://webpagetest.org
+- https://web.dev/measure
+- https://metatags.io/
+- https://cards-dev.twitter.com/validator
+- https://developers.google.com/web/tools/lighthouse/
+- https://websiteseochecker.com/

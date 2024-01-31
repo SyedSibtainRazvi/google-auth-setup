@@ -1,0 +1,47 @@
+**How we collaborate:** 
+
+
+To begin a project, we create a project charter that outlines all the important details. 
+This includes information such as the project's purpose, goals, deliverables, team members, stakeholders, and budgeting. 
+With the project charter in place, we can then move on to developing an MVP (Minimum Viable Product) and subsequent versions of the product.
+As different versions of a project are developed, new features, design and enhancements may be requested. 
+The project manager is responsible for converting these requests into actionable items by breaking them down into smaller,
+manageable tasks or tickets.
+
+**PR review Process** 
+
+- The task will be assigned to the developers once the design implementation is done.
+- The developers will open a pull request (PR) for review on the designated channel.
+- The PR's deployment link should be tested thoroughly for any bugs or required changes.
+- Other developers can review the PR to ensure that everything is ready to go.
+- If changes are needed, the reviewing developer can leave a comment for the initial developer to make necessary adjustments.
+
+Staging (Main Branch)
+
+- The PR can be merged by the dev to staging branch 
+- The team should be testing out the changes on staging if the changes are been reflected 
+- Once we have a headups on staging branch , we will be good for the production deployment 
+
+Production deployment 
+
+- Project Manager plans for production release
+- Project Manager creates a ticket for production release
+- Devs test changes in staging environment
+- Devs raise a PR to production
+- Another dev creates a release tag for production release
+- Production PR is merged to master
+- Deployment to production is done automatically or manually
+- Project Manager checks for changes on production
+- If there is a bug or changes are not reflecting, PM creates a bug ticket on high priority and assigns it to the developer.
+- Production releases are meant to done only on Wednesday 
+
+Bugs 
+
+Once the Project managers or the team members finds a bug on any environment, PM will create a bug ticket.
+if the bug is on production the ticket priority will be "High" or "Critical".
+if we are facing bug on staging the priority will be "Medium" 
+Once the Bug ticket has been created by PM he/she will assign the ticket for the dev to work on the fix 
+Once the fix is done , dev will raise a PR , the PM will be testing the deployment link of the PR for the fix 
+If the fix is okay and the PR is merged to staging and then deployed to production.
+
+
